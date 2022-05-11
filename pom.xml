@@ -29,7 +29,6 @@
         <module>factory-kit</module>
         <module>lazy-loading</module>
         <module>game-loop</module>
-        <module>temp</module>
         <module>singleton</module>
         <module>prototype</module>
         <module>iterator</module>
